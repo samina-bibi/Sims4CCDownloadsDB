@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T12:58:26.584Z" agent="5.0 (Windows)" version="20.6.0" etag="_FTlGD7k1bUDk_0g4TAI" type="github"><diagram id="9ReDNHY08W31-SRB8LyJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-10T13:02:37.024Z" agent="5.0 (Windows)" version="20.6.0" etag="SV-cZvsP0ultNUbdLBl6" type="github">
+  <diagram id="NTHtF00grgPFGmCiuScS" name="Page-1">
+    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5w_adqbCkDXn6EWKoe1--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5w_adqbCkDXn6EWKoe1--1" target="5w_adqbCkDXn6EWKoe1--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5w_adqbCkDXn6EWKoe1--1" target="5w_adqbCkDXn6EWKoe1--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5w_adqbCkDXn6EWKoe1--1" target="5w_adqbCkDXn6EWKoe1--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--1" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--2" value="&lt;div&gt;Creator&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5w_adqbCkDXn6EWKoe1--4" target="5w_adqbCkDXn6EWKoe1--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--4" value="&lt;div&gt;URL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5w_adqbCkDXn6EWKoe1--6" target="5w_adqbCkDXn6EWKoe1--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--6" value="&lt;div&gt;CC Subtype&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--8" value="Pack or individual?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--10" value="Have ability to add columns in the GUI for any additional categorisation of the cc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--11" value="Have a way to automatically go to websites and download cc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5w_adqbCkDXn6EWKoe1--12" value="&lt;div&gt;Platform downloaded from:&lt;/div&gt;&lt;div&gt;Patreon, Tumblr, TSR&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="320" width="124" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
